@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>features on Biodiversity &amp; Health</title>
+    <link>/categories/features/</link>
+    <description>Recent content in features on Biodiversity &amp; Health</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exemple</title>
+      <link>/2019/08/exemple/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/exemple/</guid>
+      <description>&lt;p&gt;on peut dire que&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>African Swine Fever</title>
+      <link>/2019/08/african-swine-fever/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/african-swine-fever/</guid>
+      <description>&lt;p&gt;The African Swine Fever is a disease originating from Africa&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paysage du nord Laos</title>
+      <link>/2019/08/vientiane/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/vientiane/</guid>
+      <description>&lt;p&gt;Cette mission a eu lieu dans le cadre d&amp;rsquo;un projet sur le typhus des broussailles&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
